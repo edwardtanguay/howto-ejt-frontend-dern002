@@ -11,7 +11,6 @@ import { Job } from './components/Job';
 import { LandscapePhoto } from './components/LandscapePhoto';
 
 const backend_url = import.meta.env.VITE_BACKEND_URL;
-
 const url = `${backend_url}/all`;
 const separator = '|';
 
